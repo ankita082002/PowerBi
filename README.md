@@ -1,2 +1,2 @@
 # PowerBi
-PowerBI Dashboard
+Spotify Dashboard
