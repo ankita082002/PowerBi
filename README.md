@@ -84,10 +84,6 @@ It enables quick understanding of listening habits, device preferences, and beha
   
 ## ✉️ Author & Contact
 
-Author: Ankita Basu
-LinkedIn: www.linkedin.com/in/ankita-basu-a7b0b628b
-Email: ankita16basu@gmail.com
-
-
-
-👉 Do you want me to also create a **GitHub folder structure** for this project (like `data/`, `images/`, `.pbix`, `README.md`) so you can directly upload everything neatly?
+* Author: Ankita Basu
+* LinkedIn: www.linkedin.com/in/ankita-basu-a7b0b628b
+* Email: ankita16basu@gmail.com
