@@ -37,7 +37,7 @@ This project aims to transform Spotify listening history into meaningful insight
 ## 🛠 Tools and Technologies
 
 * **Power BI** – Dashboard & Visualization
-* **Excel / CSV** – Data preprocessing
+* **CSV** – Data preprocessing
 * **DAX** – Measures and Calculations
 
 ## ⚙️ Methods
@@ -57,7 +57,7 @@ This project aims to transform Spotify listening history into meaningful insight
 * 🔀 Shuffle usage is relatively low compared to sequential play
 * ⏭ Skip behavior shows preference-driven listening
 
-## 📊 Dashboard / Model / Output
+## 📊 Dashboard 
 
 ### Pages in Dashboard
 
@@ -81,8 +81,12 @@ It enables quick understanding of listening habits, device preferences, and beha
 * Compare listening habits across different users
 * Predictive analysis of music preferences using ML integration
 * Sentiment analysis of lyrics (with external dataset)
-
+  
 ## ✉️ Author & Contact
+
+Author: Ankita Basu
+LinkedIn: www.linkedin.com/in/ankita-basu-a7b0b628b
+Email: ankita16basu@gmail.com
 
 
 
